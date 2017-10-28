@@ -1,0 +1,6 @@
+# ignore idea
+.idea/
+# ignore readme
+README.md
+# test
+.txt
